@@ -1,0 +1,10 @@
+{
+    "items": [
+        {"image": "assets/onboardingChair_1.jpg", "name": "Cheaster Chair", "price": "$63.42"},
+        {"image": "assets/onboardingChair_2.jpg", "name": "Leset Chair", "price": "$43.73"},
+        {"image": "assets/onboardingChair_3.jpg", "name": "Soft Element Chair", "price": "$42.21"},
+        {"image": "assets/onboardingChair_4.jpg", "name": "Avrona Chair", "price": "$13.02"},
+        {"image": "assets/onboardingChair_5.jpg", "name": "Persona Chair", "price": "$91.22"},
+        {"image": "assets/onboardingChair_6.jpg", "name": "Menancing Chair", "price": "$51.21"}
+    ]
+}
